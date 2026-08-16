@@ -1,40 +1,29 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Home | Wardrobe Alpha Edge</title><meta name="description" content="Wardrobe Alpha Edge — modern wardrobe craft, fit, layers and responsible style guidance."><link rel="stylesheet" href="assets/style.css"><script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});gtag('js',new Date());gtag('config','G-0LY0HY7L01');</script></head><body>
 <header><div class="nav"><a class="brand" href="index.php">WARDROBE ALPHA EDGE</a><nav><a href="index.php">Home</a><a href="collection.html">Collection</a><a href="journal.html">Journal</a><a href="about.html">Atelier</a><a href="contact.html">Contact</a></nav></div></header>
-<main>
-<section class="wrap hero reveal">
- <div class="hero-copy"><div class="eyebrow">Wardrobe Alpha Edge / New Season</div>
- <h1>Fashion, edited with intention.</h1>
- <p>A professional editorial wardrobe guide focused on modern silhouettes, considered layers, fabric character and practical styling. Discover a sharper way to build outfits that work beyond one occasion.</p>
- <a class="cta" href="collection.html">Explore the collection</a></div>
- <div class="hero-art"><img src="assets/hero.svg" alt="Fashion editorial silhouette"></div>
+<main class="runway-home">
+<section class="runway-hero">
+ <img class="runway-bg" src="assets/runway-hero.png" alt="Luxury fashion runway collection">
+ <div class="runway-shade"></div>
+ <div class="runway-copy"><span>WARDROBE ALPHA EDGE / NEW SEASON</span><h1>TAILORED<br>TO LEAD.</h1><p>Modern silhouettes. Premium fabrics. Designed for presence. Built to last.</p><div><a class="gold-btn" href="collection.html">SHOP COLLECTION →</a><a class="line-btn" href="journal.html">EXPLORE LOOKBOOK</a></div></div>
+ <div class="season">SPRING / SUMMER 2026</div><div class="pager"><b>01</b><i></i><span>02</span><i></i><span>03</span></div>
 </section>
-
-<section class="section"><div class="wrap">
- <div class="section-head"><div><div class="eyebrow">01 / The edit</div><h2>The modern wardrobe, refined.</h2></div>
- <p class="section-intro">A strong wardrobe is less about quantity and more about proportion, versatility and pieces that connect naturally.</p></div>
- <div class="editorial-grid"><div class="feature"><img src="assets/silhouette.svg" alt="Modern silhouette study"><h3>Silhouette first.</h3><p>Start with shape and proportion. A balanced shoulder, clean line and intentional volume can make simple clothing feel considered.</p></div>
- <div class="stack"><div class="stack-card"><img src="assets/fabric.svg" alt="Fabric study"><h3>Texture with purpose</h3><p>Use fabric weight and surface to create depth without visual noise.</p></div><div class="stack-card"><img src="assets/layer.svg" alt="Layering study"><h3>Layer with logic</h3><p>Build outfits around temperature, movement and the occasion.</p></div></div></div>
+<section class="cat-strip">
+<a href="collection.html"><img src="assets/urban.svg"><b>CLOTHING</b><small>Elevated everyday essentials →</small></a>
+<a href="collection.html"><img src="assets/weather.svg"><b>OUTERWEAR</b><small>Protection meets refinement →</small></a>
+<a href="collection.html"><img src="assets/detail.svg"><b>ACCESSORIES</b><small>Details that define your edge →</small></a>
+<a href="collection.html"><img src="assets/season.svg"><b>NEW ARRIVALS</b><small>Fresh silhouettes. First to the edge →</small></a>
+<a href="journal.html"><img src="assets/silhouette.svg"><b>LOOKBOOK</b><small>Style narratives worth exploring →</small></a>
+</section>
+<section class="services"><div>♧ <b>FREE SHIPPING</b><small>On orders over £150</small></div><div>↻ <b>EASY RETURNS</b><small>30-day return policy</small></div><div>◇ <b>SECURE PAYMENTS</b><small>Safe & trusted checkout</small></div><div>✦ <b>PREMIUM QUALITY</b><small>Crafted to last</small></div></section>
+<section class="dark-section"><header><div><em>CURATED FOR YOU</em><h2>THE COLLECTION</h2></div><a href="collection.html">VIEW ALL COLLECTIONS →</a></header><div class="products">
+<article><img src="assets/fit.svg"><small>01 / ESSENTIAL</small><h3>THE STRUCTURED KNIT</h3><p>Clean lines / soft architecture</p></article>
+<article><img src="assets/urban.svg"><small>02 / OUTERWEAR</small><h3>THE CITY JACKET</h3><p>Sharp silhouette / everyday movement</p></article>
+<article><img src="assets/detail.svg"><small>03 / ACCESSORY</small><h3>THE SIGNATURE DETAIL</h3><p>Quiet finish / considered function</p></article>
+<article><img src="assets/weather.svg"><small>04 / OUTERWEAR</small><h3>THE WEATHER SHELL</h3><p>Protection / understated edge</p></article>
 </div></section>
-
-<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">02 / Fit language</div><h2>Four details change the whole look.</h2></div></div>
- <div class="number-grid"><article><b>01</b><h3>Shoulder</h3><p>The starting point for a clean upper-body proportion.</p></article><article><b>02</b><h3>Rise</h3><p>Controls the relationship between top, waist and leg line.</p></article><article><b>03</b><h3>Length</h3><p>Lets a jacket or coat sit intentionally over the layers beneath.</p></article><article><b>04</b><h3>Volume</h3><p>Creates movement without losing a clear silhouette.</p></article></div>
-</div></section>
-
-<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">03 / Lookbook</div><h2>Five ways to build a complete look.</h2></div><p class="section-intro">Think in complete outfits rather than isolated pieces.</p></div>
-<div class="lookbook"><div class="look"><img src="assets/urban.svg" alt=""><h3>City uniform</h3><p>Structured outerwear with relaxed everyday foundations.</p></div><div class="look"><img src="assets/travel.svg" alt=""><h3>Travel edit</h3><p>Light layers that can move across several settings.</p></div><div class="look"><img src="assets/season.svg" alt=""><h3>Season shift</h3><p>Texture and adaptable layers for changing weather.</p></div><div class="look"><img src="assets/fit.svg" alt=""><h3>Soft tailoring</h3><p>Tailored lines balanced with practical comfort.</p></div></div></div></section>
-
-<section class="section"><div class="wrap split" style="display:grid;grid-template-columns:1fr 1fr;gap:55px;align-items:center"><div><div class="eyebrow">04 / Material room</div><h2>Let the fabric carry the character.</h2><p class="section-intro">Wool, cotton, leather, technical shells and knits each create a different visual and tactile rhythm. Compare weight, drape, care and climate suitability before deciding.</p><a class="cta" href="collection.html">View material-led edits</a></div><img src="assets/craft.svg" alt="Craft and material editorial" style="width:100%"></div></section>
-
-<section class="section"><div class="wrap"><div class="eyebrow">05 / Signature pieces</div><h2>Build around what you reach for.</h2><p class="section-intro">The best wardrobe anchors are pieces that solve several styling problems without demanding attention every time they are worn.</p>
-<div class="product-grid" style="margin-top:35px"><div class="product"><img src="assets/detail.svg" alt=""><span class="tag">Outer layer</span><h3>The considered jacket</h3><p>A clean anchor for workdays, weekends and evening plans.</p></div><div class="product"><img src="assets/weather.svg" alt=""><span class="tag">Weather layer</span><h3>The adaptable shell</h3><p>Useful protection with a restrained visual profile.</p></div><div class="product"><img src="assets/care.svg" alt=""><span class="tag">Foundation</span><h3>The repeatable knit</h3><p>Soft structure that connects easily with tailored and casual pieces.</p></div></div></div></section>
-
-<section class="section"><div class="wrap"><div class="quote">“Professional style is not about looking expensive. It is about making every element feel deliberate.”<span>Wardrobe Alpha Edge / Editorial principle</span></div></div></section>
-
-<section class="section"><div class="wrap" style="display:grid;grid-template-columns:.8fr 1.2fr;gap:55px;align-items:center"><img src="assets/care.svg" alt="Garment care editorial" style="width:100%"><div><div class="eyebrow">07 / Longevity</div><h2>Care is part of personal style.</h2><p class="section-intro">Rotate garments, follow care labels, allow pieces to rest between wears and repair small issues early. Good maintenance protects both appearance and usefulness.</p></div></div></section>
-
-<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">08 / Journal</div><h2>Ideas worth keeping.</h2></div><a class="cta" href="journal.html">Read all</a></div>
-<div class="editorial-grid"><div class="feature"><img src="assets/journal.svg" alt=""><h3>How to make a smaller wardrobe feel more complete</h3><p>Start with combinations, not shopping lists.</p><a href="journal-12.html">Read the guide →</a></div><div class="stack"><div class="stack-card"><h3>Outerwear for changing weather</h3><p>Build a reliable layer system.</p><a href="journal-2.html">Read →</a></div><div class="stack-card"><h3>Fabric weight and visual balance</h3><p>Understand why texture changes proportion.</p><a href="journal-3.html">Read →</a></div></div></div></div></section>
-
-<section class="section"><div class="wrap" style="text-align:center"><div class="eyebrow">09 / The next piece</div><h2>Choose with a clearer point of view.</h2><p class="section-intro" style="margin:15px auto">Browse the collection by wardrobe purpose and find the pieces that genuinely add capability.</p><a class="cta" href="collection.html">Open the wardrobe</a></div></section>
+<section class="editorial"><div><em>THE EDIT</em><h2>STYLE IS<br>A POINT OF VIEW.</h2><p>Build around proportion. Layer with purpose. Choose materials that earn their place.</p><a href="about.html">DISCOVER THE ATELIER →</a></div><img src="assets/craft.svg"></section>
+<section class="dark-section journal"><header><div><em>FROM THE JOURNAL</em><h2>THE FASHION NOTES</h2></div><a href="journal.html">VIEW ALL →</a></header><div class="journal-cards"><article><img src="assets/journal.svg"><small>01 / FIT</small><h3>How to Check Fit Before You Decide a Garment Works</h3><a href="journal-4.html">READ ARTICLE →</a></article><article><img src="assets/fabric.svg"><small>02 / MATERIAL</small><h3>Why Fabric Weight Matters More Than You Think</h3><a href="journal-3.html">READ ARTICLE →</a></article><article><img src="assets/layer.svg"><small>03 / STYLE</small><h3>How Texture Adds Depth to Simple Everyday Dressing</h3><a href="journal-6.html">READ ARTICLE →</a></article></div></section>
+<section class="statement">CONFIDENCE ISN'T BOUGHT.<br><span>IT'S ENGINEERED.</span></section>
+<section class="newsletter"><em>WARDROBE ALPHA EDGE</em><h2>THE NEXT EDIT,<br>DIRECT TO YOUR INBOX.</h2><p>New-season stories, wardrobe guides and considered style notes.</p><form><input type="email" placeholder="Your email address" required><button>JOIN THE EDIT →</button></form></section>
 </main>
 <footer><div class="wrap foot"><div><h4>Explore</h4><a href="collection.html">Collection</a><a href="journal.html">Journal</a><a href="about.html">Atelier</a></div><div><h4>Contact</h4><p>3638 Westbourne Grove<br>London, UK, W2 5SH, GB<br>+1 2125559857</p></div><div><h4>Policies</h4><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="refund.html">Refund</a><a href="shipping.html">Shipping</a></div></div><div class="wrap legal">© 2026 Wardrobe Alpha Edge. Editorial fashion guidance only.</div></footer></body></html>
