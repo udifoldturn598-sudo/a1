@@ -55,3 +55,13 @@ body{background:#080808;color:#eee}.runway-home{background:#080808;color:#eee}
 .statement{min-height:470px;display:flex;align-items:center;justify-content:center;text-align:center;background:radial-gradient(circle,#292219,#080808 60%);font:clamp(42px,7vw,100px)/.9 Georgia,serif}.statement span{color:#c49a57}.newsletter{text-align:center;padding:100px 20px;background:#0b0b0b}.newsletter h2{font:50px Georgia,serif;line-height:1;margin:15px}.newsletter p{color:#999}.newsletter form{max-width:520px;margin:30px auto;display:flex;border-bottom:1px solid #555}.newsletter input{flex:1;background:transparent;border:0;color:#fff;padding:14px}.newsletter button{background:none;border:0;color:#c49a57;font-size:10px;letter-spacing:.13em}
 @media(max-width:850px){.cat-strip{grid-template-columns:repeat(2,1fr)}.services{grid-template-columns:repeat(2,1fr)}.products{grid-template-columns:repeat(2,1fr)}.editorial{grid-template-columns:1fr}.journal-cards{grid-template-columns:1fr}}
 @media(max-width:560px){.runway-hero{min-height:620px}.runway-copy{left:10%;right:8%}.runway-copy h1{font-size:58px}.season{display:none}.cat-strip,.services,.products{grid-template-columns:1fr}.cat-strip a{border-right:0;border-bottom:1px solid #333}.dark-section{padding:65px 20px}.dark-section>header{align-items:start;flex-direction:column;gap:15px}.newsletter h2{font-size:40px}}
+
+.site-footer{background:#10100f!important;color:#eee;margin:0!important;padding:70px 7% 25px;border-top:1px solid #333}
+.footer-inner{display:grid;grid-template-columns:2fr 1fr 1fr 1.4fr;gap:45px;max-width:1280px;margin:auto}
+.footer-brand>a{color:#fff;text-decoration:none;font:25px/1 Georgia,serif;letter-spacing:.12em}
+.site-footer h4{font-size:10px;letter-spacing:.18em;color:#c49a57;margin:0 0 18px;text-transform:uppercase}
+.site-footer a{color:#bbb;text-decoration:none;font-size:12px;display:block;margin:9px 0}
+.site-footer a:hover{color:#c49a57}.site-footer p{color:#999;font-size:12px;line-height:1.8}.footer-bottom{max-width:1280px;margin:45px auto 0;padding-top:20px;border-top:1px solid #333;display:flex;justify-content:space-between;color:#777;font-size:10px}
+@media(max-width:800px){.footer-inner{grid-template-columns:1fr 1fr}.footer-brand{grid-column:1/-1}}
+@media(max-width:520px){.footer-inner{grid-template-columns:1fr}.footer-brand{grid-column:auto}.footer-bottom{flex-direction:column;gap:8px}}
+.runway-bg,.cat-strip img,.products img,.editorial img,.journal-cards img{object-position:center top}
