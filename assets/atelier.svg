@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+    <rect width="1200" height="760" fill="#233126"/>
+    <path d="M0 590 C220 430 350 690 560 510 S930 300 1200 470" fill="none" stroke="#c6a86b" stroke-width="5" opacity=".7"/>
+    <circle cx="930" cy="170" r="110" fill="none" stroke="#c6a86b" stroke-width="2" opacity=".45"/>
+    <circle cx="930" cy="170" r="62" fill="none" stroke="#eef0e8" stroke-width="1" opacity=".35"/>
+    <path d="M470 150 L650 130 L710 590 L520 620 Z" fill="none" stroke="#eef0e8" stroke-width="3" opacity=".75"/>
+    <path d="M515 170 L585 245 L645 170 M545 255 L615 255 M530 355 L675 345" fill="none" stroke="#c6a86b" stroke-width="4"/>
+    <text x="70" y="680" font-family="Arial,sans-serif" font-size="30" letter-spacing="7" fill="#eef0e8">ATELIER</text>
+    </svg>
